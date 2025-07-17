@@ -96,6 +96,6 @@ npm start
 
 ---
 ## 👨‍💻 Author
-Vijay Hatte – AI & Full Stack Developer
+Naman Shetty – Full Stack Data Scientist
 
 
